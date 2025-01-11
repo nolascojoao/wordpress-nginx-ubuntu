@@ -1,5 +1,9 @@
 ## WordPress Quick Setup Script
 
+
+> Script Bash para automatizar a criação de um servidor WordPress com Nginx no ubuntu, facilitando meus laboratórios de estudo. 🖥️
+
+
 📂 Este repositório contém dois scripts bash:
 
 - **wp-nginx.sh**: Automatiza a instalação e configuração do WordPress com **Nginx**, **PHP**, **MariaDB** e **WordPress**.
